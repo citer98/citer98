@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @citer98
+- 👋 Hi, my name is Haidir Abdillah
 - 👀 I’m interested in programin
 - 🌱 I’m currently learning C++
 - 💞️ I’m looking to collaborate on ???
